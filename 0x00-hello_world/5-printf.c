@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-char *ptr="with proper grammar, but the outcome is a piece of art, ";
-      printf("%s", ptr);
-      return (0);
+char *ptr = "with proper grammar, but the outcome is a piece of art, ";
+printf("%s", ptr"\n");
+return (0);
 }
