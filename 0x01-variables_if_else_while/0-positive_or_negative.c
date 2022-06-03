@@ -3,10 +3,10 @@
 #include<time.h>
 
 /**
- * main - contains if else 
- *
- * Return: Always 0 (Success)
- */
+* main - contains if else 
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 int n;
