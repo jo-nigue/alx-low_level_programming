@@ -4,7 +4,7 @@
  *
  * Return: 0 if successful
  */
-int main (void)
+int main(void)
 {
 int num, num1;
 for (num = '0'; num <= '9'; num++)
@@ -15,8 +15,13 @@ if (num1 > num)
 {
 putchar (num);
 putchar (num1);
+if (num == '8' && num1 == '9')
+break;
+else
+{
 putchar (',');
 putchar (' ');
+}
 }
 else
 continue;
