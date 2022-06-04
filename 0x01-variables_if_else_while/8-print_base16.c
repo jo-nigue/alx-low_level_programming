@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 /**
- *
  * main - prints hexadecimal
  *
  * Return: returns 0
