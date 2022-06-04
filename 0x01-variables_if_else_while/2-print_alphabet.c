@@ -10,7 +10,7 @@ char alphabet = 'a';
 while( alphabet <= 'z' )
 
 {
-iputchar( alphabet );
+putchar( alphabet );
 alphabet++;
 }
 putchar( '\n' );
