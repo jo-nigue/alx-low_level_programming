@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -fasm = intel -S $CFILE
